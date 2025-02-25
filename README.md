@@ -1,3 +1,2 @@
 -  Hi, I’m Ryder Germain
--  I’m interested in programming
--  I’m currently learning C#
+-  I’m interested in everything!
