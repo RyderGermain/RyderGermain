@@ -1,2 +1,1 @@
--  Hi, I’m Ryder Germain
--  I’m interested in everything!
+yes
